@@ -28,7 +28,7 @@ namespace JapaneseMatchingApp
         };
         List<string> icons2 = new List<string>()
         {
-            "Hello", "Goodbye", "Itterashai", "I (boy pronoun)", "I (Girl pronoun)", "I (masculine pronoun)",
+            "Hello", "Goodbye", "See You Later", "I (boy pronoun)", "I (Girl pronoun)", "I (masculine pronoun)",
             "I (feminine pronoun)", "Indicatation of Topic", "Suggestion of Question", "Indication of Subject",
             "Possessive Particle ", "Japan"
         };
